@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/JSelemin/chess_analytics/blob/main/README.en.md)
+
 # Chess Games Data Pipeline
 
 Este proyecto extrae datos de partidas desde la API de Lichess y construye un pequeño pipeline de datos para transformarlos y almacenarlos para un posterior análisis. El pipeline recupera las partidas de un usuario específico, limpia y reestructura el dataset, y finalmente lo carga tanto en un archivo CSV como en una base de datos SQLite. Una etapa adicional transforma los datos para que estén centrados en la perspectiva del jugador, facilitando el análisis del rendimiento personal.
