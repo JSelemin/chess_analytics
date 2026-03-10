@@ -38,11 +38,7 @@ The pipeline consists of three main stages.
 
 Since the API returns data in NDJSON format, each line is processed individually and then converted into a pandas DataFrame.
 
-The raw dataset is saved as:
-
-```
-data/raw_data.csv
-```
+The raw dataset is saved as `data/raw_data.csv`
 
 #### 2. Data Transformation
 
@@ -53,11 +49,7 @@ data/raw_data.csv
 - Expansion of dictionary-like fields into columns
 - General data cleaning
 
-The resulting dataset is saved as:
-
-```
-data/clean_data.csv
-```
+The resulting dataset is saved as `data/clean_data.csv`
 
 #### 3. Player Perspective Transformation
 
@@ -72,11 +64,7 @@ Examples of transformations include:
 
 This step makes the dataset easier to analyze from the perspective of the selected Lichess user.
 
-The resulting dataset is saved as:
-
-```
-data/personal_games.csv
-```
+The resulting dataset is saved as `data/personal_games.csv`
 
 A copy is also loaded into a SQLite database to allow structured queries.
 

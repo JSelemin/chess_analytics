@@ -38,11 +38,7 @@ El pipeline se compone de tres etapas principales.
 
 Dado que la API devuelve datos en **NDJSON**, cada línea se procesa individualmente y luego se convierte en un DataFrame de pandas.
 
-El dataset sin procesar se guarda en:
-
-```
-data/raw_data.csv
-```
+El dataset sin procesar se guarda en `data/raw_data.csv`
 
 #### 2. Transformación de Datos
 
@@ -53,11 +49,7 @@ data/raw_data.csv
 - Expansión de campos tipo diccionario en columnas
 - Limpieza general de datos
 
-El dataset resultante se guarda en:
-
-```
-data/clean_data.csv
-```
+El dataset resultante se guarda en `data/clean_data.csv`
 
 #### 3. Transformación a Perspectiva del Jugador
 
@@ -72,13 +64,9 @@ Algunos ejemplos de transformaciones incluyen:
 
 Este paso hace que el dataset sea más fácil de analizar desde la perspectiva del usuario de Lichess seleccionado.
 
-El dataset resultante se guarda en:
+El dataset resultante se guarda en `data/personal_games.csv`
 
-```
-data/personal_games.csv
-```
-
-Además, una copia se carga en una base de datos SQLite para permitir consultas estructuradas.
+Además, una copia se carga en una base de datos SQLite para permitir consultas SQL.
 
 ## Ejecución
 
