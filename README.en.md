@@ -66,7 +66,7 @@ This step makes the dataset easier to analyze from the perspective of the select
 
 The resulting dataset is saved as `data/personal_games.csv`
 
-A copy is also loaded into a SQLite database to allow structured queries.
+A copy is also loaded into a SQLite database to allow SQL queries.
 
 ## Execution
 
