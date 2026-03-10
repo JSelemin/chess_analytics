@@ -1,0 +1,19 @@
+For this project, I'll be extracting games from a Lichess user and analyzing them.
+
+The first step is to connect to the API, which, in this case, returns NDJSON. There are some filters
+that apply at this stage: I'm only taking bullet, bliz, classical, and rapid ranked games that come
+from the pool; this filters out games with friends or bots. I parsed each line and turned the data 
+into a dataframe, which is saved as a raw CSV file.
+
+Then, the transform_data.py script picks that CSV file up and transforms it. This ELT workflow was
+intended instead of the usual ELT; I wanted to experiment with treating my own hard drive as a data
+warehouse. The first step is to drop unnecessary or redundant columns such as clock, rated, and perf.
+We'll also explode the remaining dicts or JSON columns. The resulting DataFrame will then be saved as
+a clean version of the previous one, and a copy will immediately be sent over to a to_personal_data.py
+script.
+
+This script, composed of only one function that takes the username and the clean DataFrame, turns the
+information onto the player's perspective to make it easier to analyze later on. For example, the winner
+column is replaced by the who_won column, which states either "player," "opponent," or "draw." Similar
+transformations run for rating, analyses, etc. The date is also simplified, and some redundant columns
+are further dropped.

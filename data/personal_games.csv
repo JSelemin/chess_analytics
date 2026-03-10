@@ -1,0 +1,161 @@
+id,lichess_id,format,game_date,result,opening_played,white_username,black_username,player_color,who_won,player_rating_before_match,player_accuracy,opponent_rating_before_match,opponent_accuracy
+0,zSqQzyMK,rapid,2025-12-26 02:18:41.962,stalemate,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",selemin,sprasannav,white,draw,1511.0,72.0,1531.0,75.0
+1,Wr2yF7iE,blitz,2025-11-16 17:54:45.965,outoftime,Modern Defense: Two Knights Variation,gwelain,selemin,black,player,1045.0,no_analysis,984.0,no_analysis
+2,agWAvzeS,rapid,2025-11-15 16:19:26.652,resign,Queen's Pawn Game: Accelerated London System,selemin,protivnik10rus,white,player,1466.0,83.0,1449.0,79.0
+3,c9dYgBxR,rapid,2025-11-15 00:55:45.481,draw,Horwitz Defense,selemin,azerazad,white,draw,1470.0,no_analysis,1446.0,no_analysis
+4,0VwSpP2b,rapid,2025-11-09 17:22:12.724,mate,King's Indian Defense: Orthodox Variation,luis1111aa,selemin,black,player,1393.0,70.0,1471.0,63.0
+5,9SEofCD0,rapid,2025-11-09 14:59:28.684,mate,Zukertort Opening: Black Mustang Defense,alec150,selemin,black,player,1320.0,71.0,1304.0,60.0
+6,AAtg8JeN,blitz,2025-03-01 20:56:46.933,resign,Queen's Pawn Game: Accelerated London System,selemin,chisto_pusto,white,player,1015.0,no_analysis,1109.0,no_analysis
+7,jonnwD46,blitz,2025-03-01 20:50:16.869,resign,Queen's Gambit Declined: Three Knights Variation,shaked222,selemin,black,player,983.0,no_analysis,1100.0,no_analysis
+8,mb4qSQfZ,blitz,2025-03-01 20:44:59.822,resign,Petrov's Defense: Three Knights Game,selemin,shaked222,white,opponent,1002.0,no_analysis,1096.0,no_analysis
+9,CqpMT4Dw,blitz,2024-07-04 19:59:02.616,resign,Pirc Defense,shahrzad1390,selemin,black,opponent,1016.0,no_analysis,973.0,no_analysis
+10,lOZPUggY,rapid,2024-04-09 22:52:45.360,outoftime,King's Pawn Game: Napoleon Attack,sriram_king,selemin,black,player,1263.0,no_analysis,1260.0,no_analysis
+11,Q2eY8L52,blitz,2024-03-23 02:27:09.048,mate,Queen's Pawn Game: Accelerated London System,selemin,vcoll,white,player,1011.0,no_analysis,943.0,no_analysis
+12,2T9XpODZ,blitz,2024-03-23 02:19:14.124,resign,Vienna Game: Vienna Gambit,getitrightsteve,selemin,black,opponent,1017.0,no_analysis,1017.0,no_analysis
+13,su6znsLH,blitz,2024-03-22 23:43:12.367,mate,Queen's Pawn Game: Accelerated London System,selemin,thedankme,white,player,1010.0,91.0,1049.0,86.0
+14,xo0x2gG5,blitz,2024-03-22 20:19:29.177,resign,Queen's Pawn Game: Accelerated London System,selemin,eskul,white,player,1005.0,no_analysis,975.0,no_analysis
+15,ZVUyl5lq,blitz,2024-03-22 19:19:33.827,mate,Queen's Pawn Game: Accelerated London System,krzysztofgorzelak,selemin,black,player,1001.0,no_analysis,934.0,no_analysis
+16,QzqIw0Rn,blitz,2024-03-22 02:56:25.564,mate,Queen's Pawn Game,eleop,selemin,black,player,993.0,83.0,1136.0,74.0
+17,eJqTIsKz,blitz,2024-03-22 00:19:09.730,mate,Ruy Lopez: Exchange Variation,cataphract331,selemin,black,player,986.0,72.0,1045.0,42.0
+18,L2nMLlXU,blitz,2024-03-21 23:46:14.214,resign,Queen's Pawn Game: Accelerated London System,selemin,mut005,white,player,982.0,95.0,886.0,69.0
+19,RKQVTGHA,blitz,2024-03-21 23:37:35.738,timeout,Italian Game: Giuoco Piano,kevinc03,selemin,black,player,977.0,86.0,1025.0,73.0
+20,1GVhhsaB,blitz,2024-03-21 17:05:26.397,resign,Queen's Pawn Game: Accelerated London System,selemin,tobymcguire,white,opponent,982.0,71.0,1015.0,85.0
+21,uIrvemUL,blitz,2024-03-21 16:48:37.031,mate,Scotch Game,henri12349,selemin,black,player,977.0,no_analysis,937.0,no_analysis
+22,zQDm96kW,blitz,2024-03-21 03:49:59.362,mate,Queen's Pawn Game: London System,selemin,vermavarun,white,player,969.0,71.0,1067.0,44.0
+23,qhozn38g,blitz,2024-03-21 00:17:59.264,resign,Queen's Pawn Game: Accelerated London System,selemin,conman126,white,player,965.0,no_analysis,901.0,no_analysis
+24,J5md6Ki5,blitz,2024-03-21 00:08:25.432,mate,Four Knights Game: Spanish Variation,alexandr2828,selemin,black,player,959.0,65.0,967.0,44.0
+25,bWjs0WTc,blitz,2024-03-20 19:58:57.515,mate,"London System, with Bd3",selemin,gameoftrones,white,opponent,964.0,no_analysis,1026.0,no_analysis
+26,LwBqGwTV,blitz,2024-03-20 00:00:37.944,resign,Three Knights Opening,kroshil,selemin,black,opponent,969.0,no_analysis,1003.0,no_analysis
+27,LYEgcIg5,blitz,2024-03-19 18:08:15.950,resign,Four Knights Game: Italian Variation,alisher_tilavov,selemin,black,opponent,975.0,49.0,886.0,74.0
+28,uEN5kHGl,blitz,2024-03-19 14:04:24.000,outoftime,Queen's Pawn Game: Accelerated London System,selemin,swys,white,player,969.0,62.0,967.0,70.0
+29,iuSkwqNp,blitz,2024-03-19 03:02:19.662,resign,Queen's Pawn Game: Accelerated London System,selemin,whymusticryy,white,player,963.0,92.0,993.0,64.0
+30,qLyvweXz,blitz,2024-03-18 22:31:05.271,resign,English Opening: The Whale,hyperfungus,selemin,black,player,958.0,79.0,938.0,71.0
+31,ggrxSPfg,blitz,2024-03-18 22:24:01.682,resign,Indian Defense: Accelerated London System,selemin,simsalabimbamba,white,player,951.0,67.0,994.0,53.0
+32,Y0uDmCtk,blitz,2024-03-18 16:44:19.333,mate,Queen's Pawn Game: Accelerated London System,selemin,xavini,white,player,946.0,no_analysis,939.0,no_analysis
+33,r1XHUScv,blitz,2024-03-18 16:36:15.837,stalemate,Three Knights Opening,mengsunny2,selemin,black,draw,947.0,no_analysis,863.0,no_analysis
+34,Aw8uwr47,blitz,2024-03-18 15:41:14.995,timeout,"Italian Game: Two Knights Defense, Knight Attack",selemin,salehahmed333,white,player,942.0,83.0,931.0,76.0
+35,3exGQOPV,blitz,2024-03-16 21:43:07.584,resign,Queen's Pawn Game,bigchessmarco,selemin,black,player,938.0,no_analysis,804.0,no_analysis
+36,Fq8go2u7,blitz,2024-03-16 16:37:10.135,resign,Queen's Pawn Game: Accelerated London System,selemin,tonyiks,white,player,932.0,89.0,929.0,52.0
+37,MiVuZnfR,blitz,2024-03-16 15:27:13.159,resign,Italian Game: Rousseau Gambit,can_duran,selemin,black,opponent,940.0,no_analysis,832.0,no_analysis
+38,oX40T7hM,blitz,2024-03-16 15:21:27.981,mate,Indian Defense: Accelerated London System,selemin,sihamkhan,white,player,934.0,64.0,945.0,38.0
+39,sXzgD80y,blitz,2024-03-15 18:54:04.383,resign,Center Game: Halasz-McDonnell Gambit,cervendommge,selemin,black,player,929.0,70.0,849.0,59.0
+40,ko1cHqko,blitz,2024-03-15 18:35:29.970,outoftime,Center Game: Paulsen Attack Variation,mahamed2530ss,selemin,black,player,922.0,87.0,1037.0,74.0
+41,V0fPQ8z5,blitz,2024-03-15 14:42:19.466,resign,Queen's Pawn Game: Accelerated London System,selemin,swys,white,player,915.0,62.0,964.0,61.0
+42,xHZ3AJm1,blitz,2024-03-15 14:37:10.427,resign,Vienna Game: Mieses Variation,bigdramashow1,selemin,black,opponent,921.0,66.0,931.0,81.0
+43,GKCeyQZg,blitz,2024-03-14 23:06:32.562,resign,Indian Defense: Accelerated London System,selemin,yogibaer,white,player,914.0,81.0,940.0,78.0
+44,8H56ocEG,blitz,2024-03-14 19:48:15.896,resign,Queen's Pawn Game: Accelerated London System,selemin,taaadj,white,opponent,920.0,55.0,949.0,57.0
+45,TDzKxV01,blitz,2024-03-14 00:16:28.283,mate,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",seuvelho,selemin,black,player,915.0,66.0,821.0,53.0
+46,ybIep1P6,blitz,2024-03-07 16:07:13.313,resign,Ponziani Opening: Jaenisch Counterattack,selemin,nichikam,white,opponent,921.0,no_analysis,904.0,no_analysis
+47,FD7Vyrba,blitz,2024-03-07 16:02:31.985,resign,Petrov's Defense: Italian Variation,selemin,perryman08,white,opponent,927.0,no_analysis,947.0,no_analysis
+48,2UXE1vAD,bullet,2024-03-07 13:25:37.269,outoftime,"Italian Game: Giuoco Pianissimo, Normal",bartekmad,selemin,black,opponent,866.0,no_analysis,959.0,no_analysis
+49,rhYf1fym,bullet,2024-03-07 03:39:40.145,outoftime,"Ruy Lopez: Morphy Defense, Caro Variation",jam79,selemin,black,player,851.0,no_analysis,889.0,no_analysis
+50,afWsKQ4X,blitz,2024-03-07 00:35:27.547,outoftime,Sicilian Defense: Classical Variation,selemin,amaruneru,white,player,919.0,no_analysis,1040.0,no_analysis
+51,hx84y4cN,blitz,2024-03-07 00:26:39.737,resign,Queen's Pawn Game: Zukertort Variation,ragnar202,selemin,black,opponent,926.0,no_analysis,886.0,no_analysis
+52,h8N9adK8,blitz,2024-03-05 20:11:00.370,resign,Scandinavian Defense: Main Line,selemin,wittmannf,white,player,921.0,78.0,850.0,69.0
+53,qJ4OLzHB,blitz,2024-03-05 19:02:18.413,resign,"Italian Game: Two Knights Defense, Fried Liver Attack",selemin,magdy632,white,opponent,926.0,56.0,973.0,69.0
+54,HjRB86ye,blitz,2024-03-05 18:56:08.314,resign,"Italian Game: Giuoco Pianissimo, Lucchini Gambit",acilci,selemin,black,opponent,933.0,no_analysis,916.0,no_analysis
+55,oPJpHcl7,blitz,2024-03-04 18:47:04.263,mate,"Italian Game: Giuoco Pianissimo, Normal",mohamedkhaled_9,selemin,black,player,926.0,86.0,958.0,74.0
+56,gULmPzU5,blitz,2024-03-04 16:51:22.672,resign,Queen's Gambit Declined: Modern Variation,kzaknes,selemin,black,opponent,931.0,61.0,976.0,73.0
+57,JBIWqVeT,blitz,2024-03-04 14:12:05.768,resign,King's Pawn Game: Damiano Defense,selemin,charly_watts,white,player,924.0,76.0,977.0,61.0
+58,K4o8TzfZ,blitz,2024-03-03 01:54:44.293,resign,Three Knights Opening,joeyo,selemin,black,opponent,930.0,47.0,931.0,65.0
+59,5hmTh0pS,blitz,2024-02-29 21:12:12.972,resign,"Italian Game: Giuoco Pianissimo, Normal",hosseintavakoli,selemin,black,opponent,939.0,no_analysis,847.0,no_analysis
+60,tUZr7CEw,blitz,2024-02-29 21:09:10.047,resign,Van't Kruijs Opening,broblake18,selemin,black,opponent,944.0,74.0,1027.0,73.0
+61,EnWv8dkt,blitz,2024-02-28 22:27:31.691,resign,Italian Game: Anti-Fried Liver Defense,selemin,lukekennedy,white,opponent,950.0,no_analysis,994.0,no_analysis
+62,skJ25ler,blitz,2024-02-28 22:13:38.111,outoftime,Owen Defense,selemin,slowlyhellcat,white,player,943.0,no_analysis,927.0,no_analysis
+63,X1QOLXZb,blitz,2024-02-28 20:55:59.512,resign,"Italian Game: Classical Variation, Greco Gambit, Traditional Line",selemin,bellaee,white,player,936.0,85.0,1151.0,58.0
+64,Ph03OaLE,blitz,2024-02-28 20:47:03.247,resign,Italian Game: Giuoco Piano,mdashadow,selemin,black,player,929.0,no_analysis,938.0,no_analysis
+65,mcFWkGbI,blitz,2024-02-27 21:25:27.003,resign,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",kurdistana,selemin,black,opponent,935.0,no_analysis,976.0,no_analysis
+66,Rhl0g40d,blitz,2024-02-27 18:43:28.595,resign,Italian Game: Anti-Fried Liver Defense,selemin,monsef1998,white,opponent,943.0,no_analysis,930.0,no_analysis
+67,nqEI2Dv9,blitz,2024-02-27 18:35:41.548,mate,Bishop's Opening,derhamsta,selemin,black,player,938.0,no_analysis,790.0,no_analysis
+68,RyqtvXJa,blitz,2024-02-27 18:23:15.687,outoftime,Italian Game: Giuoco Piano,raballa,selemin,black,player,932.0,no_analysis,869.0,no_analysis
+69,9mkt2JNm,blitz,2024-02-27 15:40:02.802,resign,Scotch Game,selemin,asiergde,white,opponent,939.0,no_analysis,968.0,no_analysis
+70,nalOrxob,blitz,2024-02-27 15:35:03.984,resign,Mieses Opening,rtamm,selemin,black,player,932.0,92.0,869.0,80.0
+71,dtmPvvCW,blitz,2024-02-27 14:51:34.870,mate,Three Knights Opening: Winawer Defense,juanshifu85,selemin,black,player,923.0,73.0,955.0,63.0
+72,7uayos1c,blitz,2024-02-27 14:38:03.465,mate,King's Pawn Game: Damiano Defense,selemin,juanshifu85,white,player,914.0,no_analysis,961.0,no_analysis
+73,79RImEVj,blitz,2024-02-27 14:32:08.825,mate,Vienna Game,ferrocinetica,selemin,black,player,905.0,81.0,920.0,64.0
+74,QP89Najh,blitz,2024-02-26 22:43:48.703,mate,Elephant Gambit,selemin,damianodeimaneski,white,opponent,914.0,no_analysis,894.0,no_analysis
+75,aQNowdBZ,blitz,2024-02-26 19:52:25.720,resign,Scandinavian Defense: Valencian Variation,selemin,bob7e,white,opponent,923.0,no_analysis,930.0,no_analysis
+76,Bv8bipmN,blitz,2024-02-26 19:46:18.841,resign,Van't Kruijs Opening,menayzovyt,selemin,black,opponent,931.0,no_analysis,959.0,no_analysis
+77,OIIfPY8e,blitz,2024-02-26 14:11:02.020,resign,Queen's Gambit Declined: Marshall Defense,feijooo,selemin,black,player,923.0,92.0,859.0,70.0
+78,sA2TMiOI,blitz,2024-02-25 23:36:11.381,resign,Ponziani Opening: Jaenisch Counterattack,akoshkin,selemin,black,player,913.0,85.0,951.0,74.0
+79,UW5ULO09,blitz,2024-02-20 15:04:16.960,mate,King's Pawn Game: McConnell Defense,selemin,sunkara_vasu,white,player,905.0,89.0,841.0,80.0
+80,ifI4Sqku,blitz,2024-02-19 15:07:07.935,resign,King's Pawn Game: Damiano Defense,selemin,bhanu_king,white,player,893.0,58.0,949.0,73.0
+81,z0fXZNMM,blitz,2024-02-16 14:05:50.980,resign,Italian Game: Giuoco Piano,j-imex,selemin,black,opponent,903.0,no_analysis,899.0,no_analysis
+82,nKKxbNA5,blitz,2024-02-15 14:04:18.801,resign,Philidor Defense: Exchange Variation,selemin,damianksz,white,opponent,911.0,no_analysis,1002.0,no_analysis
+83,tXjGT5bc,blitz,2024-02-15 13:48:25.352,mate,Caro-Kann Defense: Advance Variation,selemin,martin5star,white,opponent,923.0,61.0,848.0,89.0
+84,UhN18Aix,bullet,2024-02-15 03:36:44.598,mate,Scotch Game: Lolli Variation,joyboy_onepiece,selemin,black,player,838.0,no_analysis,869.0,no_analysis
+85,rQvkuliS,blitz,2024-02-14 22:48:05.975,draw,"Italian Game: Giuoco Pianissimo, Normal",javistnegra,selemin,black,draw,922.0,no_analysis,947.0,no_analysis
+86,G74CZZN9,blitz,2024-02-14 22:37:44.061,outoftime,Elephant Gambit: Paulsen Countergambit,selemin,tano4ek,white,player,910.0,no_analysis,957.0,no_analysis
+87,elfa9KQs,blitz,2024-02-12 18:58:49.152,mate,"Italian Game: Classical Variation, Giuoco Pianissimo",selenski,selemin,black,player,899.0,64.0,895.0,52.0
+88,YE8SKMmn,blitz,2024-02-08 14:36:36.740,mate,Scotch Game: Classical Variation,chema_17,selemin,black,opponent,911.0,60.0,884.0,72.0
+89,JFVPFQ06,blitz,2024-02-05 13:18:28.421,resign,"Italian Game: Classical Variation, Greco Gambit, Traditional Line",selemin,karpov123zxc,white,opponent,922.0,no_analysis,917.0,no_analysis
+90,yijvvVtV,blitz,2024-02-02 18:17:06.690,resign,Philidor Defense: Philidor Countergambit,selemin,kxvmo,white,player,912.0,no_analysis,867.0,no_analysis
+91,VInccFiD,blitz,2024-02-01 15:10:50.852,resign,"Italian Game: Classical Variation, Giuoco Pianissimo",connorstoyle,selemin,black,opponent,922.0,45.0,970.0,64.0
+92,8Rf8J1Uc,blitz,2024-01-29 20:53:52.027,resign,Scandinavian Defense,selemin,clashu,white,player,913.0,no_analysis,826.0,no_analysis
+93,WVpQryV5,blitz,2024-01-29 13:35:28.183,resign,King's Pawn Game: Napoleon Attack,mehrdad_irani,selemin,black,player,900.0,65.0,945.0,45.0
+94,pau19d8m,blitz,2024-01-24 20:06:27.417,resign,Owen Defense,selemin,aerobyravol,white,opponent,910.0,no_analysis,989.0,no_analysis
+95,2try1mK3,blitz,2024-01-24 18:51:09.308,resign,Italian Game: Giuoco Piano,bobunja,selemin,black,opponent,924.0,no_analysis,894.0,no_analysis
+96,V5utJ9dK,blitz,2024-01-24 03:25:54.959,resign,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",selemin,superbobr228,white,player,912.0,no_analysis,907.0,no_analysis
+97,WM1nDzwc,blitz,2024-01-24 03:17:53.588,resign,Rapport-Jobava System,goodgame29,selemin,black,opponent,924.0,70.0,979.0,97.0
+98,SIVAZygW,blitz,2024-01-24 03:14:54.410,resign,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",selemin,bebobenju,white,player,912.0,no_analysis,861.0,no_analysis
+99,xCJAsLvX,blitz,2024-01-23 14:25:32.732,mate,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",loldopoking,selemin,black,player,902.0,86.0,789.0,44.0
+100,GqjyCUPC,blitz,2024-01-17 22:49:16.157,mate,"Caro-Kann Defense: Advance Variation, Short Variation",selemin,truustrucsstudy,white,opponent,916.0,no_analysis,930.0,no_analysis
+101,qHT5Nz8H,blitz,2024-01-17 22:47:41.470,resign,Queen's Pawn Game: Chigorin Variation,pmb76,selemin,black,opponent,926.0,no_analysis,1052.0,no_analysis
+102,952BhugO,blitz,2024-01-17 22:34:24.065,resign,Sicilian Defense,selemin,sinaldo,white,player,912.0,86.0,875.0,81.0
+103,EcFrpcxu,blitz,2024-01-11 14:12:22.585,mate,Queen's Pawn Game,paren644,selemin,black,player,893.0,93.0,931.0,83.0
+104,UMr1TqD5,bullet,2024-01-09 13:06:33.074,resign,Caro-Kann Defense: Classical Variation,selemin,spunkygalaxy,white,player,827.0,no_analysis,877.0,no_analysis
+105,jAXdS9fq,blitz,2024-01-09 12:58:16.649,mate,Queen's Pawn Game: Accelerated London System,thiagarajans,selemin,black,opponent,916.0,no_analysis,800.0,no_analysis
+106,igIv70Ba,blitz,2024-01-08 15:03:05.932,resign,Philidor Defense: Lion Variation,selemin,gamalamr,white,opponent,929.0,69.0,1028.0,87.0
+107,VZH7xklr,blitz,2024-01-08 14:58:47.461,mate,Bishop's Opening,kayrococo,selemin,black,opponent,949.0,20.0,927.0,87.0
+108,3Lgz0mDa,blitz,2024-01-04 13:40:24.281,mate,Petrov's Defense,selemin,werni48,white,player,928.0,93.0,955.0,85.0
+109,pUw0LoOe,blitz,2024-01-03 20:26:40.407,resign,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",oso1094,selemin,black,player,903.0,65.0,976.0,55.0
+110,rpL22TW6,blitz,2024-01-02 14:15:34.546,mate,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",amatist4,selemin,black,opponent,926.0,no_analysis,913.0,no_analysis
+111,FzOB7XIQ,bullet,2023-12-30 22:20:50.855,outoftime,Saragossa Opening,herj3,selemin,black,player,818.0,no_analysis,785.0,no_analysis
+112,8pSnvY2N,bullet,2023-12-30 22:19:43.275,resign,Caro-Kann Defense,selemin,herj3,white,opponent,829.0,no_analysis,778.0,no_analysis
+113,D3QReXy7,bullet,2023-12-30 18:27:19.591,resign,"Sicilian Defense: Classical Variation, Sozin Attack",selemin,quisquiquock,white,player,820.0,91.0,771.0,87.0
+114,UTckgUj2,blitz,2023-12-29 13:40:39.167,mate,Queen's Pawn Game: Accelerated London System,moyenlamoet,selemin,black,player,906.0,89.0,860.0,81.0
+115,ommY9Kor,blitz,2023-12-29 13:23:58.718,mate,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",electrochino,selemin,black,player,876.0,79.0,948.0,74.0
+116,2h8OI6BT,blitz,2023-12-28 21:23:58.867,resign,Center Game: Normal Variation,mrlenlen,selemin,black,opponent,893.0,no_analysis,1016.0,no_analysis
+117,7iMwAHLg,blitz,2023-12-28 12:20:45.083,mate,King's Knight Opening,selemin,tsyganova_u,white,player,862.0,no_analysis,898.0,no_analysis
+118,uQhmT6fL,blitz,2023-12-25 00:31:55.911,mate,Petrov's Defense: Three Knights Game,selemin,fenerlibeko,white,player,830.0,no_analysis,846.0,no_analysis
+119,pTI7Thmd,blitz,2023-12-25 00:27:57.234,resign,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",fenerlibeko,selemin,black,opponent,866.0,no_analysis,840.0,no_analysis
+120,xsOzSVA2,blitz,2023-12-25 00:24:44.736,resign,Nimzowitsch Defense: Woodchuck Variation,selemin,muhammad1375,white,player,822.0,no_analysis,886.0,no_analysis
+121,skNoIYyX,blitz,2023-12-25 00:19:27.400,resign,Kádas Opening,beanssssssss,selemin,black,player,779.0,no_analysis,803.0,no_analysis
+122,bgEgvaNj,bullet,2023-12-25 00:03:16.454,outoftime,"Ruy Lopez: Morphy Defense, Caro Variation",chechebatazo,selemin,black,player,811.0,no_analysis,803.0,no_analysis
+123,VaXwHBws,bullet,2023-12-24 18:45:45.611,resign,French Defense: Marshall Gambit,selemin,aleksa_i,white,opponent,820.0,no_analysis,851.0,no_analysis
+124,HlaZ06mr,bullet,2023-12-23 14:59:42.944,mate,King's Knight Opening: Normal Variation,abdo_90x,selemin,black,player,808.0,no_analysis,940.0,no_analysis
+125,hid4alA2,bullet,2023-12-19 13:55:23.022,resign,Philidor Defense,selemin,labeck,white,opponent,818.0,no_analysis,837.0,no_analysis
+126,IjXg825m,bullet,2023-12-18 21:41:52.622,resign,Queen's Gambit Declined,signorchecky,selemin,black,opponent,827.0,no_analysis,860.0,no_analysis
+127,1ZR0EwxG,bullet,2023-12-17 15:16:38.755,resign,Sicilian Defense: Open,selemin,branor04,white,player,816.0,no_analysis,812.0,no_analysis
+128,iFTRBJHk,bullet,2023-12-15 13:05:11.309,outoftime,Queen's Gambit Declined,n_parthasarathy,selemin,black,player,802.0,no_analysis,895.0,no_analysis
+129,Nv0uHFU4,bullet,2023-12-14 13:41:26.504,outoftime,Sicilian Defense,selemin,duck968,white,player,795.0,no_analysis,657.0,no_analysis
+130,3z81aWRr,bullet,2023-12-13 14:15:06.345,mate,Queen's Pawn Game: Accelerated London System,betsku2012,selemin,black,opponent,802.0,no_analysis,947.0,no_analysis
+131,59WefaTc,bullet,2023-12-11 12:43:43.803,resign,French Defense: Knight Variation,selemin,duledan,white,opponent,814.0,no_analysis,822.0,no_analysis
+132,jMQ6ibxg,bullet,2023-12-09 13:45:26.119,mate,Scandinavian Defense: Mieses-Kotroc Variation,selemin,tahayasingg,white,player,801.0,no_analysis,810.0,no_analysis
+133,k85nlYKL,bullet,2023-12-07 15:50:39.354,mate,"Ruy Lopez: Exchange Variation, Lutikov Variation",rameshrec1994,selemin,black,player,791.0,no_analysis,701.0,no_analysis
+134,GG9Li9NU,bullet,2023-12-06 13:30:27.088,resign,Bishop's Opening,zbass1,selemin,black,opponent,801.0,no_analysis,888.0,no_analysis
+135,wCz1H5Nn,bullet,2023-12-05 14:19:44.115,resign,King's Pawn Game: Busch-Gass Gambit,selemin,muhammet06_5g,white,opponent,816.0,66.0,765.0,76.0
+136,yxxGa0DK,bullet,2023-12-04 13:22:55.812,mate,Petrov's Defense: Three Knights Game,selemin,isikos,white,opponent,825.0,no_analysis,959.0,no_analysis
+137,3TbuYtTr,bullet,2023-12-02 21:36:36.364,mate,King's Pawn Game: Leonardis Variation,oramakomaburamakoy,selemin,black,player,807.0,63.0,901.0,56.0
+138,5RzMmEE4,bullet,2023-12-01 12:54:23.867,mate,Italian Game,selemin,zsuat-65,white,player,792.0,no_analysis,799.0,no_analysis
+139,B1ZVOM1o,bullet,2023-11-30 23:10:33.176,mate,Italian Game: Giuoco Piano,avik711,selemin,black,player,774.0,93.0,842.0,74.0
+140,0zc0g1BZ,bullet,2023-11-29 13:55:50.392,resign,Sicilian Defense,selemin,jimboelrod,white,opponent,790.0,no_analysis,787.0,no_analysis
+141,k4iC5zTR,bullet,2023-11-28 16:00:46.628,outoftime,"Italian Game: Classical Variation, Greco Gambit, Traditional Line",paulc99,selemin,black,player,771.0,no_analysis,837.0,no_analysis
+142,VRnqYbAN,bullet,2023-11-27 18:52:25.024,outoftime,Scandinavian Defense: Gubinsky-Melts Defense,selemin,piotr1066,white,player,754.0,no_analysis,734.0,no_analysis
+143,btLcd9R4,bullet,2023-11-27 13:16:40.540,mate,Queen's Gambit Declined: Ragozin Defense,schach_kaffee,selemin,black,opponent,772.0,no_analysis,770.0,no_analysis
+144,BHoTDOn6,bullet,2023-11-22 14:35:58.237,resign,"Four Knights Game: Spanish Variation, Double Spanish",migonper19,selemin,black,player,751.0,no_analysis,795.0,no_analysis
+145,4YSQQIFn,bullet,2023-11-21 15:02:03.127,outoftime,Scandinavian Defense: Mieses-Kotroc Variation,selemin,bajrangbishnoi,white,player,727.0,no_analysis,922.0,no_analysis
+146,yz8fFe5P,bullet,2023-11-20 12:51:32.184,resign,Scandinavian Defense: Valencian Variation,selemin,jomaalga,white,opponent,744.0,no_analysis,803.0,no_analysis
+147,35lMhye4,bullet,2023-11-13 12:55:04.587,outoftime,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",pedroangelo888291,selemin,black,opponent,763.0,no_analysis,774.0,no_analysis
+148,rJCall9M,bullet,2023-11-12 14:19:10.812,resign,Scotch Game,pon2queen,selemin,black,opponent,779.0,no_analysis,887.0,no_analysis
+149,Mz0liC3U,bullet,2023-11-11 18:59:30.595,resign,Philidor Defense,selemin,knightsrules,white,opponent,803.0,no_analysis,780.0,no_analysis
+150,9NqdlF1p,bullet,2023-11-10 12:55:20.631,mate,Scandinavian Defense,selemin,egorfead,white,player,774.0,no_analysis,859.0,no_analysis
+151,y8AAlJSD,bullet,2023-11-09 12:37:58.838,outoftime,Four Knights Game: Italian Variation,duck968,selemin,black,player,752.0,no_analysis,681.0,no_analysis
+152,d9IGblLU,bullet,2023-11-08 12:39:47.364,outoftime,Petrov's Defense: Three Knights Game,selemin,pareagharibloo,white,opponent,778.0,no_analysis,808.0,no_analysis
+153,qR3rUDaf,bullet,2023-11-07 11:59:55.718,outoftime,Italian Game: Giuoco Pianissimo,selemin,abd_karam,white,opponent,810.0,no_analysis,799.0,no_analysis
+154,0NYkH5bw,bullet,2023-11-06 13:25:00.198,resign,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",schachcapybara,selemin,black,opponent,847.0,57.0,811.0,96.0
+155,a0AmHIrW,bullet,2023-11-06 00:14:46.379,mate,Scandinavian Defense: Valencian Variation,selemin,ihadmarbles,white,player,808.0,92.0,823.0,86.0
+156,hJbsWKYW,bullet,2023-11-05 12:44:35.232,outoftime,Van't Kruijs Opening,maine49,selemin,black,opponent,855.0,no_analysis,804.0,no_analysis
+157,fRsqN7UO,bullet,2023-11-04 19:32:25.699,outoftime,Scotch Game: Classical Variation,neptune58,selemin,black,player,805.0,no_analysis,825.0,no_analysis
+158,QcEAitgH,blitz,2023-11-03 20:56:49.297,resign,Rapport-Jobava System,onekita31,selemin,black,opponent,839.0,no_analysis,690.0,no_analysis
+159,xaGREF9B,bullet,2023-10-05 23:18:30.328,resign,Scandinavian Defense: Mieses-Kotroc Variation,selemin,ans1genie,white,opponent,874.0,no_analysis,755.0,no_analysis

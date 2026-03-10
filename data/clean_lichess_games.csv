@@ -1,0 +1,161 @@
+,id,speed,createdAt,status,winner,name,white.user.id,white.rating,white.ratingDiff,white.analysis.accuracy,black.user.id,black.rating,black.ratingDiff,black.analysis.accuracy
+0,zSqQzyMK,rapid,1766715521962,stalemate,,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",selemin,1511,1,72.0,sprasannav,1531,0,75.0
+1,Wr2yF7iE,blitz,1763315685965,outoftime,black,Modern Defense: Two Knights Variation,gwelain,984,-5,,selemin,1045,30,
+2,agWAvzeS,rapid,1763223566652,resign,white,Queen's Pawn Game: Accelerated London System,selemin,1466,45,83.0,protivnik10rus,1449,-5,79.0
+3,c9dYgBxR,rapid,1763168145481,draw,,Horwitz Defense,selemin,1470,-4,,azerazad,1446,0,
+4,0VwSpP2b,rapid,1762708932724,mate,black,King's Indian Defense: Orthodox Variation,luis1111aa,1471,-6,63.0,selemin,1393,77,70.0
+5,9SEofCD0,rapid,1762700368684,mate,black,Zukertort Opening: Black Mustang Defense,alec150,1304,-9,60.0,selemin,1320,73,71.0
+6,AAtg8JeN,blitz,1740862606933,resign,white,Queen's Pawn Game: Accelerated London System,selemin,1015,30,,chisto_pusto,1109,-7,
+7,jonnwD46,blitz,1740862216869,resign,black,Queen's Gambit Declined: Three Knights Variation,shaked222,1100,-7,,selemin,983,32,
+8,mb4qSQfZ,blitz,1740861899822,resign,black,Petrov's Defense: Three Knights Game,selemin,1002,-19,,shaked222,1096,4,
+9,CqpMT4Dw,blitz,1720123142616,resign,white,Pirc Defense,shahrzad1390,973,7,,selemin,1016,-14,
+10,lOZPUggY,rapid,1712703165360,outoftime,black,King's Pawn Game: Napoleon Attack,sriram_king,1260,-5,,selemin,1263,57,
+11,Q2eY8L52,blitz,1711160829048,mate,white,Queen's Pawn Game: Accelerated London System,selemin,1011,5,,vcoll,943,-4,
+12,2T9XpODZ,blitz,1711160354124,resign,white,Vienna Game: Vienna Gambit,getitrightsteve,1017,6,,selemin,1017,-6,
+13,su6znsLH,blitz,1711150992367,mate,white,Queen's Pawn Game: Accelerated London System,selemin,1010,7,91.0,thedankme,1049,-6,86.0
+14,xo0x2gG5,blitz,1711138769177,resign,white,Queen's Pawn Game: Accelerated London System,selemin,1005,5,,eskul,975,-5,
+15,ZVUyl5lq,blitz,1711135173827,mate,black,Queen's Pawn Game: Accelerated London System,krzysztofgorzelak,934,-5,,selemin,1001,4,
+16,QzqIw0Rn,blitz,1711076185564,mate,black,Queen's Pawn Game,eleop,1136,-8,74.0,selemin,993,8,83.0
+17,eJqTIsKz,blitz,1711066749730,mate,black,Ruy Lopez: Exchange Variation,cataphract331,1045,-9,42.0,selemin,986,7,72.0
+18,L2nMLlXU,blitz,1711064774214,resign,white,Queen's Pawn Game: Accelerated London System,selemin,982,4,95.0,mut005,886,-7,69.0
+19,RKQVTGHA,blitz,1711064255738,timeout,black,Italian Game: Giuoco Piano,kevinc03,1025,-124,73.0,selemin,977,5,86.0
+20,1GVhhsaB,blitz,1711040726397,resign,black,Queen's Pawn Game: Accelerated London System,selemin,982,-5,71.0,tobymcguire,1015,6,85.0
+21,uIrvemUL,blitz,1711039717031,mate,black,Scotch Game,henri12349,937,-5,,selemin,977,5,
+22,zQDm96kW,blitz,1710992999362,mate,white,Queen's Pawn Game: London System,selemin,969,8,71.0,vermavarun,1067,-11,44.0
+23,qhozn38g,blitz,1710980279264,resign,white,Queen's Pawn Game: Accelerated London System,selemin,965,4,,conman126,901,-4,
+24,J5md6Ki5,blitz,1710979705432,mate,black,Four Knights Game: Spanish Variation,alexandr2828,967,-5,44.0,selemin,959,6,65.0
+25,bWjs0WTc,blitz,1710964737515,mate,black,"London System, with Bd3",selemin,964,-5,,gameoftrones,1026,5,
+26,LwBqGwTV,blitz,1710892837944,resign,white,Three Knights Opening,kroshil,1003,5,,selemin,969,-5,
+27,LYEgcIg5,blitz,1710871695950,resign,white,Four Knights Game: Italian Variation,alisher_tilavov,886,67,74.0,selemin,975,-6,49.0
+28,uEN5kHGl,blitz,1710857064000,outoftime,white,Queen's Pawn Game: Accelerated London System,selemin,969,6,62.0,swys,967,-5,70.0
+29,iuSkwqNp,blitz,1710817339662,resign,white,Queen's Pawn Game: Accelerated London System,selemin,963,6,92.0,whymusticryy,993,-8,64.0
+30,qLyvweXz,blitz,1710801065271,resign,black,English Opening: The Whale,hyperfungus,938,-6,71.0,selemin,958,5,79.0
+31,ggrxSPfg,blitz,1710800641682,resign,white,Indian Defense: Accelerated London System,selemin,951,7,67.0,simsalabimbamba,994,-7,53.0
+32,Y0uDmCtk,blitz,1710780259333,mate,white,Queen's Pawn Game: Accelerated London System,selemin,946,5,,xavini,939,-8,
+33,r1XHUScv,blitz,1710779775837,stalemate,,Three Knights Opening,mengsunny2,863,2,,selemin,947,-1,
+34,Aw8uwr47,blitz,1710776474995,timeout,white,"Italian Game: Two Knights Defense, Knight Attack",selemin,942,5,83.0,salehahmed333,931,-8,76.0
+35,3exGQOPV,blitz,1710625387584,resign,black,Queen's Pawn Game,bigchessmarco,804,-3,,selemin,938,4,
+36,Fq8go2u7,blitz,1710607030135,resign,white,Queen's Pawn Game: Accelerated London System,selemin,932,6,89.0,tonyiks,929,-6,52.0
+37,MiVuZnfR,blitz,1710602833159,resign,white,Italian Game: Rousseau Gambit,can_duran,832,14,,selemin,940,-8,
+38,oX40T7hM,blitz,1710602487981,mate,white,Indian Defense: Accelerated London System,selemin,934,6,64.0,sihamkhan,945,-6,38.0
+39,sXzgD80y,blitz,1710528844383,resign,black,Center Game: Halasz-McDonnell Gambit,cervendommge,849,-7,59.0,selemin,929,5,70.0
+40,ko1cHqko,blitz,1710527729970,outoftime,black,Center Game: Paulsen Attack Variation,mahamed2530ss,1037,-8,74.0,selemin,922,7,87.0
+41,V0fPQ8z5,blitz,1710513739466,resign,white,Queen's Pawn Game: Accelerated London System,selemin,915,7,62.0,swys,964,-7,61.0
+42,xHZ3AJm1,blitz,1710513430427,resign,white,Vienna Game: Mieses Variation,bigdramashow1,931,5,81.0,selemin,921,-6,66.0
+43,GKCeyQZg,blitz,1710457592562,resign,white,Indian Defense: Accelerated London System,selemin,914,7,81.0,yogibaer,940,-6,78.0
+44,8H56ocEG,blitz,1710445695896,resign,black,Queen's Pawn Game: Accelerated London System,selemin,920,-6,55.0,taaadj,949,13,57.0
+45,TDzKxV01,blitz,1710375388283,mate,black,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",seuvelho,821,-6,53.0,selemin,915,5,66.0
+46,ybIep1P6,blitz,1709827633313,resign,black,Ponziani Opening: Jaenisch Counterattack,selemin,921,-6,,nichikam,904,6,
+47,FD7Vyrba,blitz,1709827351985,resign,black,Petrov's Defense: Italian Variation,selemin,927,-6,,perryman08,947,5,
+48,2UXE1vAD,bullet,1709817937269,outoftime,white,"Italian Game: Giuoco Pianissimo, Normal",bartekmad,959,5,,selemin,866,-9,
+49,rhYf1fym,bullet,1709782780145,outoftime,black,"Ruy Lopez: Morphy Defense, Caro Variation",jam79,889,-6,,selemin,851,15,
+50,afWsKQ4X,blitz,1709771727547,outoftime,white,Sicilian Defense: Classical Variation,selemin,919,8,,amaruneru,1040,-8,
+51,hx84y4cN,blitz,1709771199737,resign,white,Queen's Pawn Game: Zukertort Variation,ragnar202,886,7,,selemin,926,-7,
+52,h8N9adK8,blitz,1709669460370,resign,white,Scandinavian Defense: Main Line,selemin,921,5,78.0,wittmannf,850,-5,69.0
+53,qJ4OLzHB,blitz,1709665338413,resign,black,"Italian Game: Two Knights Defense, Fried Liver Attack",selemin,926,-5,56.0,magdy632,973,10,69.0
+54,HjRB86ye,blitz,1709664968314,resign,white,"Italian Game: Giuoco Pianissimo, Lucchini Gambit",acilci,916,6,,selemin,933,-7,
+55,oPJpHcl7,blitz,1709578024263,mate,black,"Italian Game: Giuoco Pianissimo, Normal",mohamedkhaled_9,958,-9,74.0,selemin,926,7,86.0
+56,gULmPzU5,blitz,1709571082672,resign,white,Queen's Gambit Declined: Modern Variation,kzaknes,976,5,73.0,selemin,931,-5,61.0
+57,JBIWqVeT,blitz,1709561525768,resign,white,King's Pawn Game: Damiano Defense,selemin,924,7,76.0,charly_watts,977,-7,61.0
+58,K4o8TzfZ,blitz,1709430884293,resign,white,Three Knights Opening,joeyo,931,6,65.0,selemin,930,-6,47.0
+59,5hmTh0pS,blitz,1709241132972,resign,white,"Italian Game: Giuoco Pianissimo, Normal",hosseintavakoli,847,7,,selemin,939,-9,
+60,tUZr7CEw,blitz,1709240950047,resign,white,Van't Kruijs Opening,broblake18,1027,5,73.0,selemin,944,-5,74.0
+61,EnWv8dkt,blitz,1709159251691,resign,black,Italian Game: Anti-Fried Liver Defense,selemin,950,-6,,lukekennedy,994,5,
+62,skJ25ler,blitz,1709158418111,outoftime,white,Owen Defense,selemin,943,7,,slowlyhellcat,927,-5,
+63,X1QOLXZb,blitz,1709153759512,resign,white,"Italian Game: Classical Variation, Greco Gambit, Traditional Line",selemin,936,7,85.0,bellaee,1151,-267,58.0
+64,Ph03OaLE,blitz,1709153223247,resign,black,Italian Game: Giuoco Piano,mdashadow,938,-7,,selemin,929,7,
+65,mcFWkGbI,blitz,1709069127003,resign,white,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",kurdistana,976,5,,selemin,935,-6,
+66,Rhl0g40d,blitz,1709059408595,resign,black,Italian Game: Anti-Fried Liver Defense,selemin,943,-8,,monsef1998,930,6,
+67,nqEI2Dv9,blitz,1709058941548,mate,black,Bishop's Opening,derhamsta,790,-4,,selemin,938,5,
+68,RyqtvXJa,blitz,1709058195687,outoftime,black,Italian Game: Giuoco Piano,raballa,869,-4,,selemin,932,6,
+69,9mkt2JNm,blitz,1709048402802,resign,black,Scotch Game,selemin,939,-7,,asiergde,968,13,
+70,nalOrxob,blitz,1709048103984,resign,black,Mieses Opening,rtamm,869,-4,80.0,selemin,932,7,92.0
+71,dtmPvvCW,blitz,1709045494870,mate,black,Three Knights Opening: Winawer Defense,juanshifu85,955,-7,63.0,selemin,923,9,73.0
+72,7uayos1c,blitz,1709044683465,mate,white,King's Pawn Game: Damiano Defense,selemin,914,9,,juanshifu85,961,-6,
+73,79RImEVj,blitz,1709044328825,mate,black,Vienna Game,ferrocinetica,920,-6,64.0,selemin,905,9,81.0
+74,QP89Najh,blitz,1708987428703,mate,black,Elephant Gambit,selemin,914,-9,,damianodeimaneski,894,6,
+75,aQNowdBZ,blitz,1708977145720,resign,black,Scandinavian Defense: Valencian Variation,selemin,923,-9,,bob7e,930,6,
+76,Bv8bipmN,blitz,1708976778841,resign,white,Van't Kruijs Opening,menayzovyt,959,5,,selemin,931,-8,
+77,OIIfPY8e,blitz,1708956662020,resign,black,Queen's Gambit Declined: Marshall Defense,feijooo,859,-5,70.0,selemin,923,8,92.0
+78,sA2TMiOI,blitz,1708904171381,resign,black,Ponziani Opening: Jaenisch Counterattack,akoshkin,951,-6,74.0,selemin,913,10,85.0
+79,UW5ULO09,blitz,1708441456960,mate,white,King's Pawn Game: McConnell Defense,selemin,905,8,89.0,sunkara_vasu,841,-5,80.0
+80,ifI4Sqku,blitz,1708355227935,resign,white,King's Pawn Game: Damiano Defense,selemin,893,12,58.0,bhanu_king,949,-6,73.0
+81,z0fXZNMM,blitz,1708092350980,resign,white,Italian Game: Giuoco Piano,j-imex,899,6,,selemin,903,-10,
+82,nKKxbNA5,blitz,1708005858801,resign,black,Philidor Defense: Exchange Variation,selemin,911,-8,,damianksz,1002,5,
+83,tXjGT5bc,blitz,1708004905352,mate,black,Caro-Kann Defense: Advance Variation,selemin,923,-12,61.0,martin5star,848,13,89.0
+84,UhN18Aix,bullet,1707968204598,mate,black,Scotch Game: Lolli Variation,joyboy_onepiece,869,-10,,selemin,838,13,
+85,rQvkuliS,blitz,1707950885975,draw,,"Italian Game: Giuoco Pianissimo, Normal",javistnegra,947,-1,,selemin,922,1,
+86,G74CZZN9,blitz,1707950264061,outoftime,white,Elephant Gambit: Paulsen Countergambit,selemin,910,12,,tano4ek,957,-9,
+87,elfa9KQs,blitz,1707764329152,mate,black,"Italian Game: Classical Variation, Giuoco Pianissimo",selenski,895,-6,52.0,selemin,899,11,64.0
+88,YE8SKMmn,blitz,1707402996740,mate,white,Scotch Game: Classical Variation,chema_17,884,7,72.0,selemin,911,-12,60.0
+89,JFVPFQ06,blitz,1707139108421,resign,black,"Italian Game: Classical Variation, Greco Gambit, Traditional Line",selemin,922,-11,,karpov123zxc,917,16,
+90,yijvvVtV,blitz,1706897826690,resign,white,Philidor Defense: Philidor Countergambit,selemin,912,10,,kxvmo,867,-5,
+91,VInccFiD,blitz,1706800250852,resign,white,"Italian Game: Classical Variation, Giuoco Pianissimo",connorstoyle,970,5,64.0,selemin,922,-10,45.0
+92,8Rf8J1Uc,blitz,1706561632027,resign,white,Scandinavian Defense,selemin,913,9,,clashu,826,-8,
+93,WVpQryV5,blitz,1706535328183,resign,black,King's Pawn Game: Napoleon Attack,mehrdad_irani,945,-38,45.0,selemin,900,13,65.0
+94,pau19d8m,blitz,1706126787417,resign,black,Owen Defense,selemin,910,-10,,aerobyravol,989,5,
+95,2try1mK3,blitz,1706122269308,resign,white,Italian Game: Giuoco Piano,bobunja,894,6,,selemin,924,-14,
+96,V5utJ9dK,blitz,1706066754959,resign,white,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",selemin,912,12,,superbobr228,907,-74,
+97,WM1nDzwc,blitz,1706066273588,resign,white,Rapport-Jobava System,goodgame29,979,5,97.0,selemin,924,-12,70.0
+98,SIVAZygW,blitz,1706066094410,resign,white,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",selemin,912,12,,bebobenju,861,-23,
+99,xCJAsLvX,blitz,1706019932732,mate,black,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",loldopoking,789,-10,44.0,selemin,902,10,86.0
+100,GqjyCUPC,blitz,1705531756157,mate,black,"Caro-Kann Defense: Advance Variation, Short Variation",selemin,916,-14,,truustrucsstudy,930,5,
+101,qHT5Nz8H,blitz,1705531661470,resign,white,Queen's Pawn Game: Chigorin Variation,pmb76,1052,4,,selemin,926,-10,
+102,952BhugO,blitz,1705530864065,resign,white,Sicilian Defense,selemin,912,14,86.0,sinaldo,875,-5,81.0
+103,EcFrpcxu,blitz,1704982342585,mate,black,Queen's Pawn Game,paren644,931,-6,83.0,selemin,893,19,93.0
+104,UMr1TqD5,bullet,1704805593074,resign,white,Caro-Kann Defense: Classical Variation,selemin,827,11,,spunkygalaxy,877,-10,
+105,jAXdS9fq,blitz,1704805096649,mate,white,Queen's Pawn Game: Accelerated London System,thiagarajans,800,7,,selemin,916,-23,
+106,igIv70Ba,blitz,1704726185932,resign,black,Philidor Defense: Lion Variation,selemin,929,-13,69.0,gamalamr,1028,4,87.0
+107,VZH7xklr,blitz,1704725927461,mate,white,Bishop's Opening,kayrococo,927,6,87.0,selemin,949,-20,20.0
+108,3Lgz0mDa,blitz,1704375624281,mate,white,Petrov's Defense,selemin,928,21,93.0,werni48,955,-6,85.0
+109,pUw0LoOe,blitz,1704313600407,resign,black,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",oso1094,976,-7,55.0,selemin,903,25,65.0
+110,rpL22TW6,blitz,1704204934546,mate,white,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",amatist4,913,7,,selemin,926,-23,
+111,FzOB7XIQ,bullet,1703974850855,outoftime,black,Saragossa Opening,herj3,785,-5,,selemin,818,9,
+112,8pSnvY2N,bullet,1703974783275,resign,black,Caro-Kann Defense,selemin,829,-11,,herj3,778,7,
+113,D3QReXy7,bullet,1703960839591,resign,white,"Sicilian Defense: Classical Variation, Sozin Attack",selemin,820,9,91.0,quisquiquock,771,-5,87.0
+114,UTckgUj2,blitz,1703857239167,mate,black,Queen's Pawn Game: Accelerated London System,moyenlamoet,860,-13,81.0,selemin,906,20,89.0
+115,ommY9Kor,blitz,1703856238718,mate,black,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",electrochino,948,-9,74.0,selemin,876,30,79.0
+116,2h8OI6BT,blitz,1703798638867,resign,white,Center Game: Normal Variation,mrlenlen,1016,5,,selemin,893,-17,
+117,7iMwAHLg,blitz,1703766045083,mate,white,King's Knight Opening,selemin,862,31,,tsyganova_u,898,-6,
+118,uQhmT6fL,blitz,1703464315911,mate,white,Petrov's Defense: Three Knights Game,selemin,830,32,,fenerlibeko,846,-6,
+119,pTI7Thmd,blitz,1703464077234,resign,white,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",fenerlibeko,840,6,,selemin,866,-36,
+120,xsOzSVA2,blitz,1703463884736,resign,white,Nimzowitsch Defense: Woodchuck Variation,selemin,822,44,,muhammad1375,886,-7,
+121,skNoIYyX,blitz,1703463567400,resign,black,Kádas Opening,beanssssssss,803,-17,,selemin,779,43,
+122,bgEgvaNj,bullet,1703462596454,outoftime,black,"Ruy Lopez: Morphy Defense, Caro Variation",chechebatazo,803,-17,,selemin,811,9,
+123,VaXwHBws,bullet,1703443545611,resign,black,French Defense: Marshall Gambit,selemin,820,-9,,aleksa_i,851,6,
+124,HlaZ06mr,bullet,1703343582944,mate,black,King's Knight Opening: Normal Variation,abdo_90x,940,-105,,selemin,808,12,
+125,hid4alA2,bullet,1702994123022,resign,black,Philidor Defense,selemin,818,-10,,labeck,837,6,
+126,IjXg825m,bullet,1702935712622,resign,white,Queen's Gambit Declined,signorchecky,860,5,,selemin,827,-9,
+127,1ZR0EwxG,bullet,1702826198755,resign,white,Sicilian Defense: Open,selemin,816,11,,branor04,812,-5,
+128,iFTRBJHk,bullet,1702645511309,outoftime,black,Queen's Gambit Declined,n_parthasarathy,895,-7,,selemin,802,14,
+129,Nv0uHFU4,bullet,1702561286504,outoftime,white,Sicilian Defense,selemin,795,7,,duck968,657,-4,
+130,3z81aWRr,bullet,1702476906345,mate,white,Queen's Pawn Game: Accelerated London System,betsku2012,947,6,,selemin,802,-7,
+131,59WefaTc,bullet,1702298623803,resign,black,French Defense: Knight Variation,selemin,814,-12,,duledan,822,6,
+132,jMQ6ibxg,bullet,1702129526119,mate,white,Scandinavian Defense: Mieses-Kotroc Variation,selemin,801,13,,tahayasingg,810,-6,
+133,k85nlYKL,bullet,1701964239354,mate,black,"Ruy Lopez: Exchange Variation, Lutikov Variation",rameshrec1994,701,-4,,selemin,791,10,
+134,GG9Li9NU,bullet,1701869427088,resign,white,Bishop's Opening,zbass1,888,5,,selemin,801,-10,
+135,wCz1H5Nn,bullet,1701785984115,resign,black,King's Pawn Game: Busch-Gass Gambit,selemin,816,-15,66.0,muhammet06_5g,765,20,76.0
+136,yxxGa0DK,bullet,1701696175812,mate,black,Petrov's Defense: Three Knights Game,selemin,825,-9,,isikos,959,4,
+137,3TbuYtTr,bullet,1701552996364,mate,black,King's Pawn Game: Leonardis Variation,oramakomaburamakoy,901,-26,56.0,selemin,807,18,63.0
+138,5RzMmEE4,bullet,1701435263867,mate,white,Italian Game,selemin,792,15,,zsuat-65,799,-8,
+139,B1ZVOM1o,bullet,1701385833176,mate,black,Italian Game: Giuoco Piano,avik711,842,-27,74.0,selemin,774,18,93.0
+140,0zc0g1BZ,bullet,1701266150392,resign,black,Sicilian Defense,selemin,790,-16,,jimboelrod,787,6,
+141,k4iC5zTR,bullet,1701187246628,outoftime,black,"Italian Game: Classical Variation, Greco Gambit, Traditional Line",paulc99,837,-8,,selemin,771,19,
+142,VRnqYbAN,bullet,1701111145024,outoftime,white,Scandinavian Defense: Gubinsky-Melts Defense,selemin,754,17,,piotr1066,734,-6,
+143,btLcd9R4,bullet,1701091000540,mate,white,Queen's Gambit Declined: Ragozin Defense,schach_kaffee,770,7,,selemin,772,-18,
+144,BHoTDOn6,bullet,1700663758237,resign,black,"Four Knights Game: Spanish Variation, Double Spanish",migonper19,795,-6,,selemin,751,21,
+145,4YSQQIFn,bullet,1700578923127,outoftime,white,Scandinavian Defense: Mieses-Kotroc Variation,selemin,727,24,,bajrangbishnoi,922,-133,
+146,yz8fFe5P,bullet,1700484692184,resign,black,Scandinavian Defense: Valencian Variation,selemin,744,-17,,jomaalga,803,4,
+147,35lMhye4,bullet,1699880104587,outoftime,white,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",pedroangelo888291,774,19,,selemin,763,-19,
+148,rJCall9M,bullet,1699798750812,resign,white,Scotch Game,pon2queen,887,6,,selemin,779,-16,
+149,Mz0liC3U,bullet,1699729170595,resign,black,Philidor Defense,selemin,803,-24,,knightsrules,780,6,
+150,9NqdlF1p,bullet,1699620920631,mate,white,Scandinavian Defense,selemin,774,29,,egorfead,859,-35,
+151,y8AAlJSD,bullet,1699533478838,outoftime,black,Four Knights Game: Italian Variation,duck968,681,-5,,selemin,752,22,
+152,d9IGblLU,bullet,1699447187364,outoftime,black,Petrov's Defense: Three Knights Game,selemin,778,-26,,pareagharibloo,808,5,
+153,qR3rUDaf,bullet,1699358395718,outoftime,black,Italian Game: Giuoco Pianissimo,selemin,810,-32,,abd_karam,799,6,
+154,0NYkH5bw,bullet,1699277100198,resign,white,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",schachcapybara,811,6,96.0,selemin,847,-37,57.0
+155,a0AmHIrW,bullet,1699229686379,mate,white,Scandinavian Defense: Valencian Variation,selemin,808,39,92.0,ihadmarbles,823,-8,86.0
+156,hJbsWKYW,bullet,1699188275232,outoftime,white,Van't Kruijs Opening,maine49,804,6,,selemin,855,-47,
+157,fRsqN7UO,bullet,1699126345699,outoftime,black,Scotch Game: Classical Variation,neptune58,825,-6,,selemin,805,50,
+158,QcEAitgH,blitz,1699045009297,resign,white,Rapport-Jobava System,onekita31,690,8,,selemin,839,-60,
+159,xaGREF9B,bullet,1696547910328,resign,black,Scandinavian Defense: Mieses-Kotroc Variation,selemin,874,-69,,ans1genie,755,7,

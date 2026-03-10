@@ -1,0 +1,1 @@
+"black.user.name", "black.provisional", "black.analysis.inaccuracy", "black.analysis.mistake",	"black.analysis.blunder", "black.analysis.acpl", "black.user.flair", "white.user.flair"
